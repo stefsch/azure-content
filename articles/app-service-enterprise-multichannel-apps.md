@@ -14,7 +14,7 @@
 	ms.tgt_pltfrm="na" 
 	ms.devlang="na" 
 	ms.topic="article" 
-	ms.date="02/23/2015" 
+	ms.date="06/08/2015" 
 	ms.author="stefsch"/>
 
 # Create multi-channel applications for the enterprise
@@ -90,9 +90,9 @@ For more information, see [Azure Application Services][AzureApplicationServices]
  
 [AASIntegrationwithAAD]:http://azure.microsoft.com/blog/2014/11/13/azure-websites-authentication-authorization/
 [VNETIntegration]:http://azure.microsoft.com/blog/2014/09/15/azure-websites-virtual-network-integration/ 
-[Office365Integration]: app-service-cloud-app-platform.md
-[SaaSIntegration]: app-service-cloud-app-platform.md
-[AzureApplicationServices]: app-service-cloud-app-platform.md
+[Office365Integration]: http://azure.microsoft.com/en-us/documentation/articles/app-service-logic-connector-office365/
+[SaaSIntegration]: http://azure.microsoft.com/en-us/documentation/articles/app-service-api-connnect-your-app-to-saas-connector/
+[AzureApplicationServices]: http://azure.microsoft.com/en-us/documentation/services/app-service/
 
 [AADLogin]: ./media/app-service-enterprise-multichannel-apps/01aAADLogin.png
 [DatafromOnpremisesSqlServer]: ./media/app-service-enterprise-multichannel-apps/02aDatafromOnpremisesSqlServer.png
